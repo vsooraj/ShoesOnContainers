@@ -18,6 +18,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.0.2105168" />
+     <DotnetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools"  version="2.0.1" />
     <DotnetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet"  version="2.1.1" />
   </ItemGroup>
 
